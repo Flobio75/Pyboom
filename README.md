@@ -77,3 +77,5 @@ The title screen logo.
 
 bomb_icon.bmp:
 The bomb sprite icon (used in development).
+
+This project was started in Microsoft MakeCode Arcade. I then moved the Python to Visual Studio Code and started converting Circuit Python. I used the different AI tools in VS Code to help with the translations. As I ran out of tokens in VS Code I moved to Gemini where I have more tokens and worked through the different versions there. I will try to put all of my Gemini prompts as I have time in the AI Prompts folder.
