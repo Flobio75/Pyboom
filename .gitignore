@@ -1,0 +1,9 @@
+#File System
+.fseventsd
+.vscode
+
+# Enviroments variables and secrets
+.env
+.env.local
+*.env
+*.log
