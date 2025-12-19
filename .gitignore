@@ -1,6 +1,8 @@
 #File System
 .fseventsd
 .vscode
+boot_out.txt
+/lib    
 
 # Enviroments variables and secrets
 .env
