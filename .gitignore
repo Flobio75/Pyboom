@@ -9,3 +9,4 @@ boot_out.txt
 .env.local
 *.env
 *.log
+*.rar
